@@ -4,11 +4,11 @@ A simple Java-based Map Editor with the ability to paint, delete, save, and load
 
 ## Features
 
-- Paint squares on a grid using the space key.
-- Delete individual squares with the 'd' key.
-- Delete all squares at once with the 'r' key.
-- Save the painted squares to a text file using the 's' key.
-- Load previously saved squares from a text file using the 'l' key.
+- Paint squares on a grid.
+- Delete individual squares.
+- Delete all squares at once.
+- Save the painted squares to a text file.
+- Load previously saved squares from a text file.
 
 ## Getting Started
 
